@@ -226,7 +226,7 @@ body {
 }
 /* Different entry borders */
 .a-rank-border {
-  border: 5px solid var(--allstar-rank);
+  border: 5px solid var(--a-rank);
 }
 .b-rank-border {
   border: 5px solid var(--b-rank);
@@ -328,7 +328,7 @@ body {
   bottom: -5px;
   margin: auto;
   border-radius: 50%;
-  background-color: var(--allstar-rank);
+  background-color: var(--a-rank);
   box-sizing: border-box;
   padding: 2px;
   /* badge text options */
@@ -348,7 +348,7 @@ body {
   background-color: var(--no-rank);
 }
 .bg-a {
-  background-color: var(--allstar-rank);
+  background-color: var(--a-rank);
 }
 .bg-b {
   background-color: var(--b-rank);
